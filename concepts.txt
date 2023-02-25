@@ -1,0 +1,7 @@
+scripts should be placed at the end of the body of the html
+
+Babel acts as a transcompiler - Converts JSX into React.CreateElement()
+https://babeljs.io
+
+Parcel acts as a bundler -> parcel start file
+https://parceljs.org/
