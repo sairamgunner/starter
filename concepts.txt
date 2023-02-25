@@ -3,5 +3,7 @@ scripts should be placed at the end of the body of the html
 Babel acts as a transcompiler - Converts JSX into React.CreateElement()
 https://babeljs.io
 
-Parcel acts as a bundler -> parcel start file
+npm init -y -> To start a node project -> Gives you a package.json
+
+Parcel acts as a bundler -> parcel start file -> creates a giant JS bundle within dist folder of the solution
 https://parceljs.org/
